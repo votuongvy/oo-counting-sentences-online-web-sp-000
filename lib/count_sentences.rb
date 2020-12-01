@@ -45,7 +45,7 @@ class String
     
     binding.pry
     
-    self.split()
+    self.split(//)
   end
   
 end
