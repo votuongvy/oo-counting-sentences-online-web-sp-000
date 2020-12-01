@@ -21,7 +21,7 @@ require 'pry'
 #   end
 # end
 
-require 'pry'
+#require 'pry'
 class String
   
   attr_accessor :string
