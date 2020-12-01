@@ -42,7 +42,7 @@ class String
   #
   
   def count_sentences
-    array = self.split(/[.?!]\s+[A-Z]/)
+    array = self.split(/[.?!]\s+[a-z]/)
     array.length
   end
   
