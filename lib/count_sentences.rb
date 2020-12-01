@@ -42,10 +42,9 @@ class String
   #
   
   def count_sentences
-    
-    binding.pry
-    
+
     self.split(//)
+    
   end
   
 end
