@@ -21,6 +21,7 @@ require 'pry'
 #   end
 # end
 
+require 'pry'
 class String
   
   attr_accessor :string
@@ -41,6 +42,8 @@ class String
   #
   
   def count_sentences
+    
+    binding.pry
     
   end
   
